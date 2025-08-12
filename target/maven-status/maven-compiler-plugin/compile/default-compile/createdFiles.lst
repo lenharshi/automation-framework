@@ -1,0 +1,4 @@
+base\baseTest.class
+pages\AdminPage.class
+pages\LoginPage.class
+utils\Utils.class
